@@ -68,6 +68,6 @@
   "dependencies": {
     "mkdir": "0.0.2",
     "rxjs-es": "5.0.0-beta.12",
-    "tabris": "1.10.0"
+    "tabris": "https://tabrisjs.com/downloads/nightly-2.x/tabris.tgz"
   }
 }
