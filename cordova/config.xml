@@ -9,6 +9,7 @@
   </author>
   <plugin name="cordova-plugin-media" version="2.4.1" />
   <platform name="android">
+    <preference name="Theme" value="com.eclipsesource.tabris.android.R.style.Theme_Tabris_Light" />
     <icon src="resources/app/platform/android/res/drawable-hdpi/appicon.png" density="hdpi" />
     <icon src="resources/app/platform/android/res/drawable-mdpi/appicon.png" density="mdpi" />
     <icon src="resources/app/platform/android/res/drawable-xhdpi/appicon.png" density="xhdpi" />
