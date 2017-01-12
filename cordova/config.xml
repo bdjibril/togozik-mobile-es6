@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.amanalab.app.togozik.rx" version="0.1.0">
+  <name>Togozik App</name>
+  <description>
+    TogoZik App
+  </description>
+  <author email="dbdjbah@gmail.com">
+    Bah Djibril
+  </author>
+  <plugin name="cordova-plugin-media" version="2.4.1" />
+  <platform name="android">
+    <icon src="resources/app/platform/android/res/drawable-hdpi/appicon.png" density="hdpi" />
+    <icon src="resources/app/platform/android/res/drawable-mdpi/appicon.png" density="mdpi" />
+    <icon src="resources/app/platform/android/res/drawable-xhdpi/appicon.png" density="xhdpi" />
+    <icon src="resources/app/platform/android/res/drawable-xxhdpi/appicon.png" density="xxhdpi" />
+    <icon src="resources/app/platform/android/res/drawable-xxxhdpi/appicon.png" density="xxxhdpi" />
+
+    <splash src="resources/app/platform/android/res/drawable-hdpi/background.9.png" density="hdpi"/>
+    <splash src="resources/app/platform/android/res/drawable-mdpi/background.9.png" density="mdpi"/>
+    <splash src="resources/app/platform/android/res/drawable-xhdpi/background.9.png" density="xhdpi"/>
+    <splash src="resources/app/platform/android/res/drawable-xxhdpi/background.9.png" density="xxhdpi"/>
+    <splash src="resources/app/platform/android/res/drawable-xxxhdpi/background.9.png" density="xxxhdpi"/>
+  </platform>
+</widget>
